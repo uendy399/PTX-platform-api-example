@@ -2,7 +2,7 @@
 交通部運輸資料流通服務平臺(TDX) 數據交換API實作
 
 ## 1.事前準備
-首先您會需要到 TDX (https://tdx.transportdata.tw/) 取得帳號，帳號角色分為三大類
+首先您會需要到 TDX (https://tdx.transportdata.tw ) 取得帳號，帳號角色分為三大類
 #### 學研單位
 1. 公私立大專院校所屬教職人員、學生
 2. 公立學研機構所屬研究人員
@@ -32,11 +32,13 @@
 5. 可申請下載歷史資料
 
 ## 2.帳號申請審核過後
-### 這步驟預計需要2~3天審核，耐心等吧
+
+這步驟預計需要2~3天審核，耐心等吧
 
 ## 3.部署一個API Tester : 目前本例使用Hoppscotch 
 
 ### 境外IP阻擋 ? -->目前使用GCP/AWS 皆可接入
+
 ![IPS](https://raw.githubusercontent.com/uendy399/PTX-platform-api-example/main/not-TW-IP-test.jpg "IP")
 ![dbip](https://raw.githubusercontent.com/uendy399/PTX-platform-api-example/main/dbip.jpg "dbip")
 
