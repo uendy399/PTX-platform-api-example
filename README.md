@@ -1,8 +1,6 @@
 # PTX-platform-api-example
 交通部運輸資料流通服務平臺(TDX) 數據交換API實作
 
-### 境外IP阻擋 ? -->目前使用GCP/AWS 皆可接入
-
 ## 1.事前準備
 首先您會需要到 TDX (https://tdx.transportdata.tw/) 取得帳號，帳號角色分為三大類
 #### 學研單位
@@ -37,3 +35,6 @@
 ### 這步驟預計需要2~3天審核，耐心等吧
 
 ## 3.部署一個API Tester (目前本例使用H
+
+### 境外IP阻擋 ? -->目前使用GCP/AWS 皆可接入
+![IPS](https://raw.githubusercontent.com/uendy399/PTX-platform-api-example/main/not-TW-IP-test.jpg "IP")
