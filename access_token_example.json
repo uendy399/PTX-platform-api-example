@@ -1,0 +1,8 @@
+{
+  "access_token": "這邊就是你的KEY"
+  "expires_in": 86400,
+  "refresh_expires_in": 0,
+  "token_type": "Bearer",
+  "not-before-policy": 0,
+  "scope": "profile email"
+}
