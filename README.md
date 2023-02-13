@@ -34,7 +34,7 @@
 ## 2.帳號申請審核過後
 ### 這步驟預計需要2~3天審核，耐心等吧
 
-## 3.部署一個API Tester (目前本例使用H
+## 3.部署一個API Tester : 目前本例使用Hoppscotch 
 
 ### 境外IP阻擋 ? -->目前使用GCP/AWS 皆可接入
 ![IPS](https://raw.githubusercontent.com/uendy399/PTX-platform-api-example/main/not-TW-IP-test.jpg "IP")
