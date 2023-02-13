@@ -38,3 +38,5 @@
 
 ### 境外IP阻擋 ? -->目前使用GCP/AWS 皆可接入
 ![IPS](https://raw.githubusercontent.com/uendy399/PTX-platform-api-example/main/not-TW-IP-test.jpg "IP")
+![dbip](https://raw.githubusercontent.com/uendy399/PTX-platform-api-example/main/dbip.jpg "dbip")
+
