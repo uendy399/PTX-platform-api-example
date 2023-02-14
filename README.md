@@ -39,9 +39,11 @@
 
 #### 境外IP阻擋 ? -->目前使用GCP/AWS 皆可接入
 
-![IPS](https://raw.githubusercontent.com/uendy399/PTX-platform-api-example/main/not-TW-IP-test.jpg "IP")
-![dbip](https://raw.githubusercontent.com/uendy399/PTX-platform-api-example/main/dbip.jpg "dbip")
+![IPS](https://cf-content-x.yws.tw/images/not-TW-IP-test.jpg "IP")
+![dbip](https://cf-content-x.yws.tw/images/dbip.jpg "dbip")
 
 ### API設定細則可以參照: https://github.com/tdxmotc/SampleCode
 
 本例發現建議可以將Access Key cache 到本地，這樣就可以減少重複與端點索取金鑰
+
+
