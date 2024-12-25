@@ -39,7 +39,7 @@
 
 #### 境外IP阻擋 ? -->目前使用GCP/AWS 皆可接入
 
-![IPS](https://cf-content-x.yws.tw/images/not-TW-IP-test.jpg "IP")
+![IPS](![image](https://github.com/user-attachments/assets/325e1d0e-38ee-4a04-a946-bbfcd2c06d87)"IP")
 ![dbip](https://cf-content-x.yws.tw/images/dbip.jpg "dbip")
 
 ### API設定細則可以參照: https://github.com/tdxmotc/SampleCode
